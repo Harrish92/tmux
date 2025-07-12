@@ -20,4 +20,3 @@ Navigate through `tmux` with `vim` commands.
 
 Adds theme to `tmux` layout.
 
-
