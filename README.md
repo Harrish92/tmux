@@ -18,5 +18,5 @@ Adds theme to `tmux` layout.
 
 ### Tmux-yank
 
-Enables vim like yank.
+Enables `vim` like yank.
 
