@@ -1,4 +1,4 @@
-### Installation
+## Installation
 
 Requirements: `tmux` version 1.9 (or higher), `git`, `bash`.
 
