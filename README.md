@@ -1,22 +1,27 @@
+# Tmux setup
+
+## A complete tmux config for personal usage 
+
+This is a tmux config that is publicly made available. The following plugins are used:
+
+* tpm
+* vim-tmux-navigator
+* catppuccin
+* tmux-yank
+
+## Requirements
+
+`tmux` version 1.9 (or higher), `git`, `bash`.
+
 ## Installation
 
-Requirements: `tmux` version 1.9 (or higher), `git`, `bash`.
+1. clone the repository :
 
-## Plugins
+```
+git clone https://github.com/Harrish92/tmux.git ~/.config/
+```
 
-### Tpm
+2. Follow the instructions to install [tpm](https://github.com/tmux-plugins/tpm).
 
-Installs and loads `tmux` plugins.
-
-### Vim-tmux-navigator
-
-Navigate through `tmux` with `vim` commands.
-
-### Catppuccin
-
-Adds theme to `tmux` layout.
-
-### Tmux-yank
-
-Enables `vim` like yank.
+3. Refresh tmux with `prefix + I` and enjoy !
 
